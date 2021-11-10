@@ -1,0 +1,14 @@
+c:\users\dwi\documents\visual studio 2012\Projects\InventoryToko\InventoryToko\bin\Debug\InventoryToko.exe.config
+c:\users\dwi\documents\visual studio 2012\Projects\InventoryToko\InventoryToko\bin\Debug\InventoryToko.exe
+c:\users\dwi\documents\visual studio 2012\Projects\InventoryToko\InventoryToko\bin\Debug\InventoryToko.pdb
+c:\users\dwi\documents\visual studio 2012\Projects\InventoryToko\InventoryToko\obj\Debug\InventoryToko.csprojResolveAssemblyReference.cache
+c:\users\dwi\documents\visual studio 2012\Projects\InventoryToko\InventoryToko\obj\Debug\InventoryToko.Form1.resources
+c:\users\dwi\documents\visual studio 2012\Projects\InventoryToko\InventoryToko\obj\Debug\InventoryToko.Properties.Resources.resources
+c:\users\dwi\documents\visual studio 2012\Projects\InventoryToko\InventoryToko\obj\Debug\InventoryToko.csproj.GenerateResource.Cache
+c:\users\dwi\documents\visual studio 2012\Projects\InventoryToko\InventoryToko\obj\Debug\InventoryToko.exe
+c:\users\dwi\documents\visual studio 2012\Projects\InventoryToko\InventoryToko\obj\Debug\InventoryToko.pdb
+c:\users\dwi\documents\visual studio 2012\Projects\InventoryToko\InventoryToko\obj\Debug\InventoryToko.ManageUsers.resources
+C:\Users\dwi\documents\visual studio 2012\Projects\InventoryToko\InventoryToko\bin\Debug\InventoryToko.exe.manifest
+C:\Users\dwi\documents\visual studio 2012\Projects\InventoryToko\InventoryToko\bin\Debug\InventoryToko.application
+C:\Users\dwi\documents\visual studio 2012\Projects\InventoryToko\InventoryToko\obj\Debug\InventoryToko.exe.manifest
+C:\Users\dwi\documents\visual studio 2012\Projects\InventoryToko\InventoryToko\obj\Debug\InventoryToko.application
